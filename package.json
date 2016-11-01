@@ -2,7 +2,7 @@
   "name": "code",
   "version": "1.0.0",
   "description": "Assignment # 9 , NodeJs on Azure",
-  "main": "a9_problem4.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
