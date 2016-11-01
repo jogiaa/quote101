@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Assignment # 9 , NodeJs on Azure",
+  "main": "a9_problem4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogiaa/quote101.git"
+  },
+  "keywords": [
+    "Node",
+    "Azure"
+  ],
+  "author": "Asim M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jogiaa/quote101/issues"
+  },
+  "homepage": "https://github.com/jogiaa/quote101#readme"
+}
